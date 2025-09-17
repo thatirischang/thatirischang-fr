@@ -45,6 +45,6 @@ Hann-Shuin Yew
 
 
 
-<a href="https://eng.irischanglabs.com/pdf/1_Hann-Shuin Yew.pdf" target="_blank">
-  <img src="https://eng.irischanglabs.com/images/1_Hann-Shuin Yew.png" alt="test" title="点击查看PDF">
+<a href="https://fr.irischanglabs.com/pdf/1_Hann-Shuin Yew.pdf" target="_blank">
+  <img src="https://fr.irischanglabs.com/images/1_Hann-Shuin Yew.png" alt="test" title="点击查看PDF">
 </a>

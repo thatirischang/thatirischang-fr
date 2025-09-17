@@ -66,6 +66,6 @@ tags: [紀念]
 (馮達旋 達旋專欄 2018 年 5 月 26 日, 盛捷 Zoe Sheng & 麼麗 Lily Yao 集合)
 
 
-<a href="https://eng.irischanglabs.com/pdf/6_Da Hsuan Feng.pdf" target="_blank">
-  <img src="https://eng.irischanglabs.com/images/6_Da Hsuan Feng.png" alt="test" title="点击查看PDF">
+<a href="https://fr.irischanglabs.com/pdf/6_Da Hsuan Feng.pdf" target="_blank">
+  <img src="https://fr.irischanglabs.com/images/6_Da Hsuan Feng.png" alt="test" title="点击查看PDF">
 </a>

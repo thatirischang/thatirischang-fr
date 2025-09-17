@@ -34,6 +34,6 @@ tags: [紀念]
 
 
 
-<a href="https://eng.irischanglabs.com/pdf/5_Michael Honda.pdf" target="_blank">
-  <img src="https://eng.irischanglabs.com/images/5_Michael Honda.png" alt="test" title="点击查看PDF">
+<a href="https://fr.irischanglabs.com/pdf/5_Michael Honda.pdf" target="_blank">
+  <img src="https://fr.irischanglabs.com/images/5_Michael Honda.png" alt="test" title="点击查看PDF">
 </a>
