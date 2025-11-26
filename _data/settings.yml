@@ -27,8 +27,8 @@ menu_settings:
 # Hero Settings
 hero:
   enable: true
-  hero_title: 相信一個人的力量-ENG
-  hero_description: 文字是保存靈魂精華的唯一方式。演講最令我激動之處在於，即使演講者已然作古，長眠地下，他們的精神依然永存。對我來說，這是真正的宗教——永生的最佳方式。
+  hero_title: Croire en la vertu d'un seul.
+  hero_description: L'écrit seul a le pouvoir de retenir l'âme. Ce qu'il y a de pathétique et de grand dans la voix humaine, c'est qu'elle continue de vibrer quand le corps est déjà retourné à la poussière. C'est ma religion à moi, et la plus belle façon de ne pas mourir.
 
 
 #-------------------------------
@@ -53,7 +53,7 @@ tags_section:
 
 #-------------------------------
 # Footer Settings
-footer_description: 人其實是死兩次：一次是肉體的死亡，一次是在他人的記憶中消失
+footer_description: Nous subissons deux morts : l'une rend le corps à la terre, l'autre efface notre nom de la mémoire des hommes.
 
 
 # Social Links
@@ -72,7 +72,7 @@ social:
 mailchimp_settings:
   enable: true
   mailchimp_title: 
-  mailchimp_description: 從我的作家生涯中我領悟到，聽從自己的心聲和內在激情，努力創造擁有永久價值的東西，這才是通向成功的不二法門。很多時候，這意味著獨闢蹊徑。
+  mailchimp_description: J'ai compris que le secret réside dans l'écoute de ses propres passions et la quête de l'intemporel. C'est un choix rigoureux qui, le plus souvent, nous condamne à marcher seuls.
  
 
 
