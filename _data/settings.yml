@@ -28,7 +28,7 @@ menu_settings:
 hero:
   enable: true
   hero_title: Croire en la vertu d'un seul.
-  hero_description: L'écriture est l'unique moyen de fixer la quintessence de l'âme. Ce qui me bouleverse dans la parole, c'est que l'esprit demeure, alors même que celui qui l'a proférée repose sous la terre. C'est là, pour moi, la véritable religion : la forme suprême de l'immortalité.
+  hero_description: L'écrit seul a le pouvoir de retenir l'âme. Ce qu'il y a de pathétique et de grand dans la voix humaine, c'est qu'elle continue de vibrer quand le corps est déjà retourné à la poussière. C'est ma religion à moi, et la plus belle façon de ne pas mourir.
 
 #-------------------------------
 # Tags Section Settings
@@ -52,7 +52,7 @@ tags_section:
 
 #-------------------------------
 # Footer Settings
-footer_description: Nous subissons deux morts : l'une rend le corps à la terre, l'autre efface notre nom de la mémoire des hommes.
+footer_description: Nous subissons deux morts l'une rend le corps à la terre, l'autre efface notre nom de la mémoire des hommes.
 
 
 # Social Links
